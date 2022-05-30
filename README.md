@@ -1,1 +1,1 @@
-# imersao_dados_alura
+# Projeto criado na Imersão dados da Alura, usando uma base de dados com imóveis de São Paulo que estão disponíveis para aluguel e venda, uma base de dados do IBGE com dados censitários de São Paulo e uma base de dados com a malha territórial por setor sencitário de São Paulo. 
